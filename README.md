@@ -1,42 +1,43 @@
 <div align="center">
   <img src="ryanstack_banner.jpg" width="100%" alt="Banner RYANSTACK">
-</div><div align="center">
 
-# 💙 RYANSTACK
+  # 💙 RYANSTACK
 
-### Desenvolvedor em formação | Estudante de TI 💻
+  ### Desenvolvedor em formação | Estudante de TI 💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=180&section=header&text=Olá,%20eu%20sou%20Ryan!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner RyanStack"/>
-
+  *Estudando, desenvolvendo e evoluindo a cada linha de código.*
 </div>
+
+---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Sou estudante do curso Técnico em Informática integrado ao Ensino Médio.
+Olá! Sou estudante do curso Técnico em Informática integrado ao Ensino Médio e tenho interesse em desenvolvimento de software e tecnologia.
 
-💻 Tenho conhecimentos em desenvolvimento web e programação.
+- 🎓 Técnico em Informática integrado ao Ensino Médio.
+- 💻 Conhecimentos em HTML, CSS, PHP, SQL e C.
+- 🗄️ Experiência acadêmica com MySQL e phpMyAdmin.
+- 🛠️ Utilizo VS Code e XAMPP.
+- 🏦 Desenvolvendo o projeto SO BANK.
+- 📚 Sempre buscando aprender e aprimorar minhas habilidades.
 
-🚀 Gosto de aprender novas tecnologias e desenvolver projetos para aprimorar minhas habilidades.
-
-- 🌐 Desenvolvimento web
-- 🗄️ Banco de dados
-- 🏦 Projeto em desenvolvimento: SO BANK
-- 📚 Sempre aprendendo e evoluindo na área de TI
-
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
 </div>
 
-| Tecnologia | Conhecimento |
+| Tecnologia | Nível |
 |---|---|
 | HTML | Intermediário |
 | CSS | Intermediário |
@@ -45,7 +46,7 @@
 | C | Intermediário |
 | MySQL | Banco de dados |
 
-### 🔧 Ferramentas que utilizo
+## 🔧 Ferramentas
 
 - Visual Studio Code
 - XAMPP
@@ -56,23 +57,20 @@
 
 ### 🏦 SO BANK
 
-Sistema bancário web desenvolvido como projeto de estudo, com foco em desenvolvimento web e integração com banco de dados.
+Sistema bancário web desenvolvido como projeto de estudo, com foco na prática de desenvolvimento web e integração com banco de dados.
 
-**Tecnologias:** PHP, HTML, CSS e MySQL.
+**Tecnologias utilizadas:** PHP, HTML, CSS e MySQL.
 
-## 🎯 Meus objetivos
+## 🎯 Objetivos
 
 - Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos cada vez melhores.
-- Aprender novas linguagens e tecnologias.
+- Desenvolver projetos cada vez mais completos.
+- Revisar e aprender novas linguagens.
 - Construir meu portfólio profissional na área de TI.
 
 ---
 
 <div align="center">
-
-### 💙 Obrigado por visitar meu perfil!
-
-*Transformando ideias em código.*
-
+  <h3>💙 Obrigado por visitar meu perfil!</h3>
+  <i>Transformando conhecimento em código.</i>
 </div>
