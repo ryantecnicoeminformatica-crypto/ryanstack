@@ -74,3 +74,11 @@ Sistema bancário web desenvolvido como projeto de estudo, com foco na prática 
   <h3>💙 Obrigado por visitar meu perfil!</h3>
   <i>Transformando conhecimento em código.</i>
 </div>
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanstack&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
