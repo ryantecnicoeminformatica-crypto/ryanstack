@@ -1,27 +1,27 @@
 <div align="center">
 
-# 👋 Olá, eu sou Ryan!
+# 💙 RYANSTACK
 
-### 💻 Estudante de TI | Desenvolvedor em formação
+### Desenvolvedor em formação | Estudante de TI 💻
 
-Estudante de Técnico em Informática integrado ao Ensino Médio, interessado em desenvolvimento web, programação e tecnologia.
-
-**Aprendendo, desenvolvendo projetos e evoluindo a cada linha de código.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=180&section=header&text=Olá,%20eu%20sou%20Ryan!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner RyanStack"/>
 
 </div>
 
----
+## 👨‍💻 Sobre mim
 
-## 🚀 Sobre mim
+🎓 Sou estudante do curso Técnico em Informática integrado ao Ensino Médio.
 
-- 🎓 Técnico em Informática integrado ao Ensino Médio.
-- 💻 Conhecimentos em HTML, CSS, PHP, SQL e C.
-- 🗄️ Trabalhando com MySQL e phpMyAdmin.
-- 🛠️ Utilizo VS Code e XAMPP.
-- 🏦 Desenvolvendo o SO BANK como projeto de estudo.
-- 📚 Sempre buscando aprender e melhorar minhas habilidades.
+💻 Tenho conhecimentos em desenvolvimento web e programação.
 
-## 🧰 Tecnologias e ferramentas
+🚀 Gosto de aprender novas tecnologias e desenvolver projetos para aprimorar minhas habilidades.
+
+- 🌐 Desenvolvimento web
+- 🗄️ Banco de dados
+- 🏦 Projeto em desenvolvimento: SO BANK
+- 📚 Sempre aprendendo e evoluindo na área de TI
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
@@ -34,27 +34,43 @@ Estudante de Técnico em Informática integrado ao Ensino Médio, interessado em
 
 </div>
 
+| Tecnologia | Conhecimento |
+|---|---|
+| HTML | Intermediário |
+| CSS | Intermediário |
+| PHP | Intermediário |
+| SQL | Intermediário |
+| C | Intermediário |
+| MySQL | Banco de dados |
+
+### 🔧 Ferramentas que utilizo
+
+- Visual Studio Code
+- XAMPP
+- MySQL
+- phpMyAdmin
+
 ## 📂 Projeto em destaque
 
 ### 🏦 SO BANK
 
-Sistema bancário web desenvolvido como projeto de estudo para praticar desenvolvimento web, programação em PHP e integração com banco de dados MySQL.
+Sistema bancário web desenvolvido como projeto de estudo, com foco em desenvolvimento web e integração com banco de dados.
 
 **Tecnologias:** PHP, HTML, CSS e MySQL.
 
-## 🎯 Objetivos
+## 🎯 Meus objetivos
 
 - Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos cada vez mais completos.
-- Aprender novas tecnologias.
-- Construir meu portfólio na área de TI.
+- Desenvolver projetos cada vez melhores.
+- Aprender novas linguagens e tecnologias.
+- Construir meu portfólio profissional na área de TI.
 
 ---
 
 <div align="center">
 
-### Obrigado pela visita! 💙
+### 💙 Obrigado por visitar meu perfil!
 
-*Transformando conhecimento em projetos.*
+*Transformando ideias em código.*
 
 </div>
